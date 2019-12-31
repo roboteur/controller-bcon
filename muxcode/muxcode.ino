@@ -1,5 +1,15 @@
-/* 5 ANALOG SENSORS */
- 
+/* CONTROLLER-BCON (by The Roboteur)
+ *   
+ * Website: www.roboteur.me
+ * Facebook: facebook.com/TheRoboteur
+ * Instagram: instagram.com/the_roboteur
+ * YouTube: bitly.com/RoboteurTV  
+ * GitHub: github.com/roboteur
+ *  
+ */
+
+/* 5 Analog Sensors */
+
 int pinOut00 = D0;
 int pinOut01 = D1;
 int pinOut02 = D2;
