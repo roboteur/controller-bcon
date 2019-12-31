@@ -11,7 +11,7 @@
 ## Connection Diagram
 * https://github.com/roboteur/controller-bcon/tree/master/dwg
 ## Code
-* Multiplexer code is here >> https://github.com/roboteur/controller-bcon/tree/master/muxcode
+* https://github.com/roboteur/controller-bcon/tree/master/muxcode
 
 ## Feel Free To Direct Message
 * Facebook: https://facebook.com/TheRoboteur
