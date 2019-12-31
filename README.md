@@ -5,7 +5,7 @@
 ### Construction
 ![construction](./img/roboteur-construction-controller-bcon-01.png)
 ![construction](./img/roboteur-construction-controller-bcon-02.png)
-## BCon with Mux
+## BCon With Multiplexer (Mux)
 ### Construction
 ![construction](./img/roboteur-construction-controller-bcon-mux.png)
 ## Connection Diagram
