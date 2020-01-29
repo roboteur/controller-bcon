@@ -6,7 +6,7 @@
 ![construction](./img/roboteur-construction-controller-bcon-01.png)
 ![construction](./img/roboteur-construction-controller-bcon-02.png)
 ## BCon With Multiplexer "Mux" (ESP9266 Only) 
-* For ESP8266 only. ESP32 boards does not need analog input expansion because it has more already. 
+* NOTE: For ESP8266 only. ESP32 boards does not need analog input expansion because it has more already. 
 ### Construction
 ![construction](./img/roboteur-construction-controller-bcon-mux.png)
 ## Connection Diagram
